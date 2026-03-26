@@ -1,0 +1,4 @@
+# Face Recognition Access System - Data Acquisition & Preprocessing
+# Introductory AI class - OpenCV-based pipeline
+
+opencv-contrib-python>=4.8.0
